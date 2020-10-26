@@ -74,7 +74,7 @@
     <h6>Made With <span class="love">♥</span> in West, Singapore</h6>
     <h6>
       Proudly Hosted By
-      <a href="/" class="name" target="_blank"> HEROKU </a>
+      <a href="www.heroku.com" class="name" target="_blank"> HEROKU </a>
       <a id="email" href="mailto:louismineo@gmail.com"> <i class="fa fa-envelope"> </i> </a>
     </h6>
   </div>
