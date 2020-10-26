@@ -49,7 +49,7 @@
     <div class="media-body m-2" style = "color: #faf8ef">
       <h5 class="align-items-center mt-2">Louis Mineo (Min2)</h5>
       <p>Hello!
-      I'm an aspiring software developer based in Singapore.</p>
+      I'm a prospective Computer Science student based in Singapore. Currently serving the nation. 020821 ORDLO</p>
     </div>
   </div>
 <div style = "color: #faf8ef" class="mt-4">
@@ -73,7 +73,7 @@
     <hr/>
     <h6>Made by Yours Truly</span> in West, Singapore</h6>
     <h6>
-      Proudly Hosted By HEROKU
+      Proudly Hosted By HEROKU(obviously)
       <a id="email" href="mailto:louismineo@gmail.com"> <i class="fa fa-envelope"> </i> </a>
     </h6>
   </div>
