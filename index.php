@@ -63,15 +63,15 @@
   <br>
   <a href="https://www.linkedin.com/in/louis-mineo-linn-min-htoo/" class="btn btn-outline-light btn-block" role="button" target="_blank"><i class="fab fa-linkedin">&nbsp;</i>Connect with me!</a>
   <br>
-  <a href="#" class="btn btn-outline-light btn-block" role="button" target="_blank"><i class="fa fa-code">&nbsp;</i>My Professional Portfolio (Work in Progress)</a>  
+  <a href="" class="btn btn-outline-light btn-block" role="button" target="_blank"><i class="fa fa-code">&nbsp;</i>My Professional Portfolio (Work in Progress)</a>  
   <br>
-  <a href="https://github.com/louismin2" class="btn btn-outline-light btn-block" role="button" target="_blank"><i class="fab fa-github">&nbsp;</i>Github</a>
+  <a href="https://github.com/louismin2" class="btn btn-outline-light btn-block" role="button" target="_blank"><i class="fab fa-github">&nbsp;</i>Check out my Github!</a>
   <br>
 </div>
         <!--------------------Footer---------------------------->
   <div style = "color: #faf8ef" class="footer mt-5">
     <hr/>
-    <h6>Made With <span class="love">♥</span> in West, Singapore</h6>
+    <h6>Made by Yours Truly</span> in West, Singapore</h6>
     <h6>
       Proudly Hosted By HEROKU
       <a id="email" href="mailto:louismineo@gmail.com"> <i class="fa fa-envelope"> </i> </a>
