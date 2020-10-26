@@ -1,7 +1,7 @@
 # LinkTree
 This is a bootstrap one page application devoloped by Irshad Ali and used as a business card for my NFC Card.
 
-louismineocard.herokuapp.com
+https://louismineocard.herokuapp.com/
 
 
 
