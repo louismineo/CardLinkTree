@@ -55,7 +55,7 @@
 <div style = "color: #faf8ef" class="mt-4">
   <a href="tel:(+6598253933)" class="btn btn-outline-light btn-block" role="button" target="_blank"><i class="fas fa-phone">&nbsp;</i>Call me!</a>
   <br>
-  <a href="https://web.whatsapp.com/send?phone=6598253933&amp;text=Hey there Louis!" class="btn btn-outline-light btn-block" role="button" target="_blank"><i class="fab fa-whatsapp">&nbsp;</i>Whatsapp me!</a>
+  <a href="https://api.whatsapp.com/send?phone=6598253933&amp;text=Hey there Louis!" class="btn btn-outline-light btn-block" role="button" target="_blank"><i class="fab fa-whatsapp">&nbsp;</i>Whatsapp me!</a>
   <br>
   <a href="mailto:louismineo@gmail.com" class="btn btn-outline-light btn-block" role="button" target="_blank"><i class="fas fa-envelope">&nbsp;</i>Email me!</a>
   <br>
