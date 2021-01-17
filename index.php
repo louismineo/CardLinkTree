@@ -45,7 +45,7 @@
 <body>
 <div class="container">
   <div class="media mt-5">
-    <img src="https://media-exp1.licdn.com/dms/image/C5103AQGONQzBQVxmXg/profile-displayphoto-shrink_200_200/0?e=1609372800&v=beta&t=3ENqhzUfryDFhYk7N4D7UbLGgWlpnU4zX76RzDgPy9c" class="m-3" alt="image" width="75px" height="75px">
+    <img src="https://media-exp1.licdn.com/dms/image/C5603AQF68jQr6VcWTg/profile-displayphoto-shrink_200_200/0/1609676408947?e=1616630400&v=beta&t=mxOY0EtdgKfq6Gf6q6Slsu6UrUyTAKhSun85HDQm-20" class="m-3" alt="image" width="75px" height="75px">
     <div class="media-body m-2" style = "color: #faf8ef">
       <h5 class="align-items-center mt-2">Louis Mineo (Min2)</h5>
       <p>Hello!
