@@ -49,7 +49,7 @@
     <div class="media-body m-2" style = "color: #faf8ef">
       <h5 class="align-items-center mt-2">Louis Mineo (Min2)</h5>
       <p>Hello!
-      I'm a prospective Computer Science student based in Singapore. Currently serving the nation. 020821 ORDLO</p>
+      I'm a prospective Computer Science student based in Singapore. Waiting to start univerity at SIT :)</p>
     </div>
   </div>
 <div style = "color: #faf8ef" class="mt-4">
